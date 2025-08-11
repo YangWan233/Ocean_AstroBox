@@ -1,0 +1,25 @@
+{
+  "item": {
+    "name": "Ocean",
+    "description": "四大洋景深表盘，丰富可编辑组件",
+    "preview": [
+      "cover.png",
+      "preview.png",
+      "preview2.png",
+      "preview3.png"
+    ],
+    "icon": "icon.png",
+    "author": [
+      {
+        "name": "YangWan233",
+        "author_url": "https://www.bandbbs.cn/members/302677/"
+      }
+    ]
+  },
+  "downloads": {
+    "n67": {
+      "version": "1.0",
+      "file_name": "Ocean For n67.bin"
+    }
+  }
+}
